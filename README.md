@@ -19,6 +19,11 @@ Display all Carparks at given location
 Display Carpark with the Most Parking Lots
 Create an Output File with Carpark Availability with Addresses and Sort by Lots Available
 
+## CSV Files
+1. carpark-information.csv: Base CSV File which provides information about the Carparks in SG (e.g. Number, Type, Parking System, Address)
+2. carpark-availability-v1.csv: Example CSV File of Carparks in SG with the total lots and total lots available (Timestamp: 2023-06-19T11:10:27+08:00)
+3. carpark-availability-v2.csv: Another example CSV File of a Carparks in SG with the total lots and total lots available (Timestamp: 2023-06-20T23:01:26+08:00)
+
 ## Technologies Used
 
 Python programming language.
