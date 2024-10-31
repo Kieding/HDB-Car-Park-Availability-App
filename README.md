@@ -1,6 +1,6 @@
 # Project Description
 
-This is a simple application I wrote in Python to display the availability of HDB Car Parks to users. The aim was to help drivers in Singapore highlight the available parking spaces at HDB Carparks, by checking the app in advance and eliminate any inconvenience they may face when arriving at a carpark, before realising that there were no more parking spaces there. This was my first final year project I did for my Year 1 Semester 1 in Ngee Ann Poly ICT, enjoy using!
+This is a simple application I wrote in Python to display the availability of HDB Car Parks to users. The aim was to help drivers in Singapore highlight the available parking spaces at HDB Carparks. By checking the app in advance, it eliminates any inconvenience a driver may face when arriving at a carpark and realising that there were no more parking spaces there. This was my first final year project I did for my Year 1 Semester 1 in Ngee Ann Poly ICT, enjoy using!
 
 ## How to Use (For PC)
 
